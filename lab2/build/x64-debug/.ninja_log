@@ -1,0 +1,11 @@
+# ninja log v6
+12	761	7796153280221300	CMakeFiles/lab.dir/source/main.cpp.obj	fad1fd021fc4f1be
+765	1373	7796153287607105	lab.exe	8693d960a830fb7c
+35	777	7796153489717357	CMakeFiles/lab.dir/source/main.cpp.obj	fad1fd021fc4f1be
+778	1276	7796153497294394	lab.exe	8693d960a830fb7c
+40	775	7796156790032593	CMakeFiles/lab.dir/source/main.cpp.obj	fad1fd021fc4f1be
+776	1205	7796156797425246	lab.exe	8693d960a830fb7c
+40	738	7796157142526799	CMakeFiles/lab.dir/source/main.cpp.obj	fad1fd021fc4f1be
+739	1206	7796157149563816	lab.exe	8693d960a830fb7c
+33	690	7796157773746150	CMakeFiles/lab.dir/source/main.cpp.obj	fad1fd021fc4f1be
+692	1122	7796157780452987	lab.exe	8693d960a830fb7c
